@@ -1,0 +1,101 @@
+,Magnitude,Repute,Summary
+Rs661(A;A),9,Bad,"early onset Alzheimer's disease"
+Rs6647(T;T),0,Good,"Normal; two copies of Pi-M1V allele"
+Rs6647(C;C),0,Good,"Normal; two copies of Pi-M1A allele"
+Rs1303(T;T),0,Good,"common in clinvar"
+Rs28929471(G;G),0,Good,"common in complete genomics"
+Rs28929474(G;G),0,Good,"common in complete genomics"
+Rs28929474(A;A),5.5,Bad,"Alpha-1 Antitrypsin Deficiency"
+Rs17580(A;A),0,Good,"common in complete genomics"
+Rs17580(T;T),2.5,Bad,"a slightly reduced functionality form of Alpha-1 Antitrypsin Deficiency"
+Rs28931568(G;G),0,Good,"common in complete genomics"
+Rs28931568(A;A),4,Bad,"high risk of emphysema due to Alpha 1-Antitrypsin Deficiency"
+Rs28931569(T;T),0,Good,"common in complete genomics"
+Rs28931569(C;C),4,,"high risk of emphysema"
+Rs28931570(C;C),0,Good,"common in complete genomics"
+Rs28929473(A;A),0,Good,"common in complete genomics"
+Rs28929473(T;T),0,,
+Rs28931572(T;T),0,Good,"common in complete genomics"
+Rs28931572(A;A),0,,
+Rs769455(C;C),0,Good,"common in clinvar"
+Rs769452(T;T),0,Good,"common in clinvar"
+Rs28931576(A;A),0,Good,"common in clinvar"
+Rs28931578(G;G),0,Good,"common in clinvar"
+Rs28931579(A;A),0,Good,"common in clinvar"
+Rs28931580(A;A),0,Good,"common in clinvar"
+Rs4987076(G;G),0,Good,"common in clinvar"
+Rs28929478(G;G),0,Good,"common in clinvar"
+Rs28929478(A;A),0,Good,"common on affy axiom data"
+Rs28931581(C;C),0,Good,"common in clinvar"
+Rs28931582(T;T),0,Good,"common in clinvar"
+Rs28929479(T;T),0,Good,"common in clinvar"
+Rs28931586(T;T),0,Good,"common in clinvar"
+Rs1801252(A;A),0,Good,None
+Rs1801252(G;G),3,,
+Rs1042714(C;C),0,Good,normal
+Rs1800888(C;C),0,Good,normal
+Rs1800888(T;T),2.5,Bad,"increased risk of coronary artery disease"
+Rs4994(T;T),0,Good,normal
+Rs4994(C;C),2,Bad,"2x higher risk in certain women for cardiac events; associated with elite endurance performance in men"
+Rs11276(G;G),0,Good,"common in clinvar"
+Rs28362459(T;T),0,Good,"common in clinvar"
+Rs8192466(C;C),0,Good,common
+Rs8192466(T;T),4,,uncertain
+Rs28897672(T;T),0,Good,normal
+Rs4986852(G;G),0,Good,normal
+Rs4986852(A;A),2,,"predisposition to breast cancer?"
+Rs1800709(C;C),0,Good,normal
+Rs1800709(T;T),2,,"predisposition to breast cancer?"
+Rs28931588(G;G),0,Good,"common in complete genomics"
+Rs28931589(G;G),0,Good,"common in complete genomics"
+Rs28931590(A;A),0,Good,"common in complete genomics"
+Rs28931590(T;T),2.5,Bad,"ACUTE MYELOID LEUKEMIA"
+Rs2303790(A;A),0,Good,"common in clinvar"
+Rs5882(G;G),2.1,Good,"Longer lifespan, 0.28x lower risk of dementia, 0.31x lower risk of Alzheimer's."
+Rs5882(A;A),2,Bad,"Faster aging. Increased risk for Dementia. Less good cholesterol."
+Rs28931591(C;C),0,Good,"common in clinvar"
+Rs2230199(C;C),0,Good,common
+Rs2230199(G;G),2,Bad,"2.5x+ risk of ARMD"
+Rs1047286(C;C),0,Good,"common in clinvar"
+Rs1047286(T;T),1.7,Bad,"1.7x increased risk for age-related macular degeneration"
+Rs28929485(C;C),0,Good,"common in clinvar"
+Rs28929485(T;T),6,Bad,"Deafness and keratitis; possible dominant or recessive"
+Rs28931592(A;A),0,Good,"common in clinvar"
+Rs28931592(T;T),0,,
+Rs28931593(G;G),0,Good,"common in clinvar"
+Rs28931594(G;G),0,Good,"common in clinvar"
+Rs28931595(G;G),0,Good,"common in clinvar"
+Rs28931600(G;G),0,Good,"common in clinvar"
+Rs28931601(G;G),0,Good,"common in clinvar"
+Rs11547328(C;C),0,Good,"common in complete genomics"
+Rs231775(A;A),1,Good,"no increased risk of autoimmune thyroid disease"
+Rs28931606(T;T),0,Good,"common in clinvar"
+Rs28931607(G;G),0,Good,"common in clinvar"
+Rs28931608(G;G),0,Good,"common in clinvar"
+Rs4986893(G;G),0,Good,normal
+Rs4986893(A;A),2.1,,"poor metabolizer of several commonly prescribed drugs"
+Rs28399504(A;A),0,Good,normal
+Rs28399504(G;G),2.5,Bad,"poor metabolizer"
+Rs28931609(C;C),0,Good,"common in clinvar"
+Rs28931610(C;C),0,Good,"common in clinvar"
+Rs28931610(T;T),6,Bad,"carrier of a skin fragility/woolly hair syndrome allele"
+Rs28931611(T;T),0,Good,"common in clinvar"
+Rs28931612(G;G),0,Good,"common in complete genomics"
+Rs11570255(G;G),0,Good,"common in complete genomics"
+Rs11570351(G;G),0,Good,"common on affy axiom data"
+Rs5352(G;G),0,Good,common
+Rs5352(A;A),3.5,Bad,"Hirschsprung disease?"
+Rs2234922(A;A),0,Good,"common in clinvar"
+Rs460897(G;G),0,Good,"common in complete genomics"
+Rs28929498(A;A),0,Good,"common in clinvar"
+Rs28931614(G;G),0,Good,"common in clinvar"
+Rs28933068(C;C),0,Good,"common in clinvar"
+Rs28931615(C;C),0,Good,"common in clinvar"
+Rs4647924(C;C),0,Good,"common in clinvar"
+Rs28928868(G;G),0,Good,"common in clinvar"
+Rs6165(G;G),0,Good,"common in clinvar"
+Rs6166(G;G),1,Bad,"Females slightly more likely to be sterile"
+Rs6166(A;A),0,Good,common/normal
+Rs28928870(C;C),0,Good,"common in clinvar"
+Rs28928871(G;G),0,Good,"common in clinvar"
+Rs17855739(G;G),0,Good,"common in clinvar"
